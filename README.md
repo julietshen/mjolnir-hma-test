@@ -82,7 +82,7 @@ This fork includes an enterprise-ready **HMA (Hasher-Matcher-Actioner) Plugin** 
   - Comprehensive metrics and monitoring
   - Sub-2 second response times
 - **Automatic Response**: Quarantines detected CSAM and alerts administrators
-- **Privacy-First**: Only sends cryptographic hashes, never actual media content
+- **Privacy-First**: Only sends hashes, never actual media content
 - **Production Ready**: Extensive error handling, logging, and configuration options
 
 ### Quick Setup

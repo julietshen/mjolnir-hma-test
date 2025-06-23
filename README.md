@@ -70,7 +70,7 @@ server can only receive requests from your reverse proxy (e.g. `localhost`).
 
 ## HMA Plugin for CSAM Detection
 
-This fork includes an enterprise-ready **HMA (Hasher-Matcher-Actioner) Plugin** for detecting Child Sexual Abuse Material (CSAM) in Matrix media content through hash-based matching.
+This fork includes an enterprise-ready **HMA (Hasher-Matcher-Actioner) Plugin** for detecting illegal content like CSAM in Matrix media content through hash-based matching.
 
 ### Features
 
